@@ -1,2 +1,4 @@
 [template.environment]
 NEXT_PUBLIC_MEDUSA_BACKEND_URL="https://anrri-backend-3.herokuapp.com"
+
+[[redirects]] from = "/store/" to = "https://anrri-backend-3.herokuapp.com" status = 200 force = true
