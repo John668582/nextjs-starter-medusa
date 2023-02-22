@@ -1,4 +1,4 @@
-[[headers]]
+  [[headers]]
   for = "/*"
   [headers.values]
-    Access-Control-Allow-Origin = "https://anrri-backend-3.herokuapp.com"
+    Access-Control-Allow-Origin = "*"
